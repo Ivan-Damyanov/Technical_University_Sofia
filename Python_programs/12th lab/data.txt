@@ -1,0 +1,3 @@
+ivan 19 ftk 1111 1
+lubo 19 ftk 1112 2
+david 19 fett 1122 1
